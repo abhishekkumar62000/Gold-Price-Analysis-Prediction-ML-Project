@@ -1,4 +1,4 @@
-![pngwing com (28)](https://github.com/user-attachments/assets/d3a84007-590b-4f1c-aeaa-cbaeead1daab)# Gold-Price-Analysis-Prediction-ML-Project
+# Gold-Price-Analysis-Prediction-ML-Project
 ![Jupyter Nootbook Frontend](https://github.com/user-attachments/assets/6832ddb9-5886-4c4f-a0a3-992c2b29a1df)
 ![pngwing com (27)](https://github.com/user-attachments/assets/198c7f26-7371-4a23-9222-3d609fdfaca0)
 ![Picsart_24-10-30_19-29-27-950](https://github.com/user-attachments/assets/ccdc30fc-f70f-4228-8aa0-08fd7aa8331a)

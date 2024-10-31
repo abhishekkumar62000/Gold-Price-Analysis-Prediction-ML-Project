@@ -70,6 +70,7 @@ Check out the results generated from the model and various visualizations in the
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
 
 ## License 📝
+![Uploading pngwing.com (26).png…]()
 
 This project is licensed under the MIT License.
 ![Uploading pngwing.com (26).png…]()

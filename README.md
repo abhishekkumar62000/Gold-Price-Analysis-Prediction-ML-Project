@@ -4,8 +4,6 @@
 ![Uploading Picsart_24-10-30_19-29-27-950.jpg…]()
 ![pngwing com (26)](https://github.com/user-attachments/assets/c313c7b9-9a5d-49e4-ba75-47e09ef9e82c)
 
-
-
 # Gold Price Analysis & Prediction Project 🏆
 
 ## Overview 🌟
